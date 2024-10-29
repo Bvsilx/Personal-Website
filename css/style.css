@@ -89,15 +89,9 @@ hr {
 }
 
 .profile-pic {
- /*   height: 300px;*/
-    max-width:100%;
-    height:auto;
+   height: 300px;
 }
 
-.mountain {
-    max-width:100%;
-    height:auto;
-}
 
 .skill-row {
     width: 50%;
@@ -109,17 +103,13 @@ hr {
 
 
 .deve-img {
-   /*width: 25%;*/
-    max-width:100%;
-    height:auto;
+   width: 25%;
 }
 
 
 
 .settings-img {
-   /* width: 25%;*/
-    max-width:100%;
-    height:auto;
+   width: 25%;
 }
 
 
