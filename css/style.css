@@ -89,7 +89,9 @@ hr {
 }
 
 .profile-pic {
-    height: 300px;
+ /*   height: 300px;*/
+    max-width:100%;
+    height:auto
 }
 
 .skill-row {
@@ -100,13 +102,21 @@ hr {
 
 /*******************GIPHY********************/
 
+
 .deve-img {
-    width: 25%;
+   /*width: 25%;*/
+    max-width:100%;
+    height:auto;
 }
 
+
+
 .settings-img {
-    width: 25%;
+   /* width: 25%;*/
+    max-width:100%;
+    height:auto
 }
+
 
 /*********************containers************/
 .top-container {
